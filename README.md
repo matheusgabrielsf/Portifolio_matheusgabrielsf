@@ -1,4 +1,4 @@
-# 👋 Portfólio de Matheus Gabriel
+# 👋 Portfólio Matheus Gabriel
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, habilidades e experiências em desenvolvimento de software.
 
@@ -26,8 +26,8 @@ Sou um desenvolvedor apaixonado por tecnologia, criar soluções inovadoras e ef
 
 ## 🎓 Formação & Certificações
 
-- Estudante/Profissional em Desenvolvimento de Software
-- (Certificações relevantes)
+- Estudante de Análise e Desenvolvimento de Software
+- (Cursos e certificações nessa parte)
 
 
 ## 📫 Contato
@@ -40,5 +40,3 @@ Sou um desenvolvedor apaixonado por tecnologia, criar soluções inovadoras e ef
 ---
 
 ⭐ Se você encontrar algo interessante, considere deixar uma estrela!
-
-**Último update**: 2026-07-07
