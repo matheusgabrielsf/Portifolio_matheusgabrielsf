@@ -1,4 +1,4 @@
-# 👋 Portfólio Matheus Gabriel
+# Portfólio Matheus Gabriel 
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos, habilidades e experiências em desenvolvimento de software.
 
