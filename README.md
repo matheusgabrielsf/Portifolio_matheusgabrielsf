@@ -11,10 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia, criar soluções inovadoras e ef
 ## 💼 Habilidades
 
 ### Linguagens de Programação
-- JavaScript
-- Python
-- C#
-- HTML/CSS
+
 
 ### Frameworks & Bibliotecas
 - .NET
